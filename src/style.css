@@ -1,0 +1,18 @@
+body{
+  background-color: rgb(239, 108, 176);
+}
+.bg-pink{
+  background-color: rgb(246, 181, 226);
+}
+.delete{
+  transition: all 0.5s;
+}
+.edit{
+  transition: all 0.5s;
+}
+.delete:hover{
+  background-color: rgb(255, 191, 127)!important;
+}
+.edit:hover{
+  background-color: aquamarine!important;
+}
